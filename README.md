@@ -1,7 +1,7 @@
 
 # Bcrypt Security Vulnerabilities: Lessons from Okta's Incident
 
-This repository demonstrates the limitations of Bcrypt, a widely used password hashing library, and how these limitations can contribute to security vulnerabilities. Using the Okta breach as a case study, we explore critical lessons for developers in cryptography and secure coding practices.
+This repository demonstrates the limitations of Bcrypt, a widely used password hashing library, and how these limitations can contribute to security vulnerabilities. Using the Okta breach as a case study, we explore critical lessons for developers in cryptography and secure coding practices..
 
 ----------
 
